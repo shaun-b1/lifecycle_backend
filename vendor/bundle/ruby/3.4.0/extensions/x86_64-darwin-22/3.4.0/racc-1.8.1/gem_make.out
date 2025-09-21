@@ -1,0 +1,18 @@
+current directory: /Users/shaunmacwilliam/Documents/Projects/Coding/Web Development/lifecycle/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/shaunmacwilliam/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shaunmacwilliam/Documents/Projects/Coding/Web Development/lifecycle/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250921-6007-zg0fj sitelibdir\=./.gem.20250921-6007-zg0fj clean
+
+current directory: /Users/shaunmacwilliam/Documents/Projects/Coding/Web Development/lifecycle/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250921-6007-zg0fj sitelibdir\=./.gem.20250921-6007-zg0fj
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/shaunmacwilliam/Documents/Projects/Coding/Web Development/lifecycle/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250921-6007-zg0fj sitelibdir\=./.gem.20250921-6007-zg0fj install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20250921-6007-zg0fj/racc
+
+current directory: /Users/shaunmacwilliam/Documents/Projects/Coding/Web Development/lifecycle/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250921-6007-zg0fj sitelibdir\=./.gem.20250921-6007-zg0fj clean
